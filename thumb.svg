@@ -1,0 +1,22 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" fill="#E5E5E5"/>
+<g id="&#208;&#161;&#208;&#187;&#208;&#176;&#208;&#185;&#208;&#180;&#208;&#181;&#209;&#128;">
+<path d="M-122 -312C-122 -317.523 -117.523 -322 -112 -322H3252C3257.52 -322 3262 -317.523 3262 -312V420C3262 425.523 3257.52 430 3252 430H-112C-117.523 430 -122 425.523 -122 420V-312Z" fill="white"/>
+<g id="Slider control">
+<g id="curtain">
+<rect x="-21.5" y="-128.5" width="267" height="296.02" rx="4.5" stroke="#9747FF" stroke-dasharray="10 5"/>
+<g id="state=default">
+<rect x="18" y="-109" width="4" height="257.02" rx="2" fill="#666666"/>
+<g id="thumb">
+<rect x="1" y="1" width="38" height="38" rx="19" fill="white"/>
+<rect x="1" y="1" width="38" height="38" rx="19" stroke="#666666" stroke-width="2"/>
+<g id="Vector 1">
+<path d="M16 11L8 20L16 29V11Z" fill="#666666"/>
+<path d="M32 20L24 11V29L32 20Z" fill="#666666"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

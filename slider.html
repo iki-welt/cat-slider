@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <title>Котослайдер</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="slider-wrapper">
+    <div class="slide">
+        <img class="slide__after" src="viewport=tablet, state=after@1x.png" width="560" height="512" alt="После">
+        <div class="slide__before-wrapper">
+            <img class="slde__befor" src="viewport=tablet, state=before@1x.png" width="560" height="512" alt="До">
+        </div>
+    </div>
+    <div class="slider">
+        <div class="slider__thumb"></div>
+        <input class="slider__inp" type="range" min="0" max="100" value="50">
+    </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
